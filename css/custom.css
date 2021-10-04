@@ -1,0 +1,52 @@
+*{
+	font-family:Roboto-Regular, sans-serif; 
+}
+@media only screen and (min-width: 993px) {
+  .container {
+    width: 90%;
+   }
+}
+.nav-wrapper {
+	color: #fafafa;
+}
+
+
+.collapsible{
+	margin-top: 15px;
+
+}
+.card-panel-text{
+	margin-top: 5px;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.container-icon{
+	margin: 10px; 
+
+}
+
+.brand-logo{margin: 10px;}
+
+.brand-logo:hover{
+	opacity: 0.5;
+}
+
+
+.side-nav li>a {
+	color: #333;}
+
+.page-footer{
+	background-color: #fff;
+	color: #333
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
