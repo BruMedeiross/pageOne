@@ -6,7 +6,7 @@ LANDING PAGE
 <!--ts-->
   
    * linguagem: HTML, CSS, JS
-   * ABORDAGEM: Inserir a lembrança de cores da marca nos detalhes e assim como uma figura pra representar o contato humanizado, alinhada com a proposta da empresa.
+   * ABORDAGEM: Inserir a lembrança de cores da marca nos detalhes e assim como uma figura pra representar o contato humanizado, alinhado a proposta da empresa.
 
 https://brumedeiross.github.io/pageOne/
 
