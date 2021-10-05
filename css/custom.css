@@ -9,6 +9,12 @@
 .nav-wrapper {
 	color: #fafafa;
 }
+.card{
+	margin-right: 20px;
+}
+.btn-acess{
+	margin: 20px;
+}
 
 
 .collapsible{
@@ -17,13 +23,17 @@
 }
 .card-panel-text{
 	margin-top: 5px;
-	padding: 5px;
 	margin-bottom: 20px;
 }
 
 .container-icon{
-	margin: 10px; 
+	margin: 50px; 
 
+}
+@media only screen and (max-width: 600px) {
+  #img-user{ 
+    display: none !important; 
+  } 
 }
 
 .brand-logo{margin: 10px;}
@@ -47,6 +57,6 @@ body {
     flex-direction: column;
   }
 
-  main {
+main {
     flex: 1 0 auto;
   }
